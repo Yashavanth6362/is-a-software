@@ -5,5 +5,5 @@
   "record": {
     "CNAME": "site1-bvc.pages.dev"
   },
-  "proxy": false
+  "proxy": true
 }
